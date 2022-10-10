@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jarno\\Desktop\\SD2\\Challenge 2 UN goals\\ASP.net\\StudentApp\\StudentApp.csproj": {}
+    "C:\\Users\\jarno\\Source\\Repos\\StudentApp\\StudentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jarno\\Desktop\\SD2\\Challenge 2 UN goals\\ASP.net\\StudentApp\\StudentApp.csproj": {
+    "C:\\Users\\jarno\\Source\\Repos\\StudentApp\\StudentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jarno\\Desktop\\SD2\\Challenge 2 UN goals\\ASP.net\\StudentApp\\StudentApp.csproj",
+        "projectUniqueName": "C:\\Users\\jarno\\Source\\Repos\\StudentApp\\StudentApp.csproj",
         "projectName": "StudentApp",
-        "projectPath": "C:\\Users\\jarno\\Desktop\\SD2\\Challenge 2 UN goals\\ASP.net\\StudentApp\\StudentApp.csproj",
+        "projectPath": "C:\\Users\\jarno\\Source\\Repos\\StudentApp\\StudentApp.csproj",
         "packagesPath": "C:\\Users\\jarno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jarno\\Desktop\\SD2\\Challenge 2 UN goals\\ASP.net\\StudentApp\\obj\\",
+        "outputPath": "C:\\Users\\jarno\\Source\\Repos\\StudentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,6 +64,10 @@
               "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.9, )"
             }
